@@ -1,0 +1,23 @@
+{
+  "name": "websocket-node-express",
+  "version": "1.0.0",
+  "description": "websocket prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "protosocket"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmvbc/websocket-node-express.git"
+  },
+  "keywords": [
+    "websocket",
+    "prototype"
+  ],
+  "author": "Venkatesan Sathish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmvbc/websocket-node-express/issues"
+  },
+  "homepage": "https://github.com/tmvbc/websocket-node-express#readme"
+}
